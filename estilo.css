@@ -1,0 +1,120 @@
+#titulo {
+    
+    background-color: #0b0620;
+    color: azure;
+}
+body { background-image: url("imagenes/fondo.jpg") }
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 14 rem;
+    line-height: 1.5;
+    color: aliceblue;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
+    color: azure;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    padding: 3% 15% 7%;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.navbar {
+    padding-bottom: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat-Light', sans-serif;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+
+#caracteristicas {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+}
+
+.caja-caracteristica {
+        text-align: center;
+        padding: 5%;
+    }
+
+    h3 {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+
+    p {
+color: #8f8f8f;
+}
+
+.icon {
+    color: #ddd8e0;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #7c6ec7;
+}
+
+#testimonios {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #270a5e;
+    color: #fff;
+}
+
+.h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.5rem;
+    font-weight: bolder;
+}
+
+.img-testimonios {
+    border-radius: 100%;
+    width: 10%;
+}
+
+.texto_carousel {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #fff;
+}
+
+#precios {
+    padding: 100px;
+    color: #fff;
+    width: 15%;
+    margin: 20px 20px 50px ;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#precios {
+    padding: 100px;
+    text-align: center;
+}
+
+.precios-col {
+    padding: 3% 2%;
+}
